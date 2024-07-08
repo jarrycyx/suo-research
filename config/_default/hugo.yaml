@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Suo Research Group # Website name
+title: Suo Research Team # Website name
 baseURL: 'https://www.suo-research.cn/' # Website URL
 
 ############################

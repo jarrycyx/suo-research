@@ -13,9 +13,9 @@ sections:
       image:
         filename: building.jpg
       text: |
-        ## 🧑‍🎓**Our research group** 
+        # 🧑‍🎓**Our research team** 
         focuses on developing artificial intelligence algorithms for high-throughput data in the fields of science and biomedicine. 
-        
+
         Our research areas also include AI for Science🔬, computational imaging📷, causality💊, and interpretability🧐.
   
   # - block: collection
