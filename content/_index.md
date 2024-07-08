@@ -10,14 +10,10 @@ sections:
       # title: |
       #   Wowchemy
       #   Research Group
-      image:
-        filename: welcome.jpg
+      # image:
+      #   filename: welcome.jpg
       text: |
-        <br>
-        
-        Our research group focuses on developing artificial intelligence algorithms for high-throughput data in the fields of science and biomedicine. 
-        
-        Our research areas also include AI for Science, computational imaging, causality, and interpretability.
+        Our research group focuses on developing artificial intelligence algorithms for high-throughput data in the fields of science and biomedicine. Our research areas also include AI for Science, computational imaging, causality, and interpretability.
   
   # - block: collection
   #   content:
