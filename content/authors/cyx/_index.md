@@ -71,6 +71,6 @@ user_groups:
   # - Visitors
 ---
 
-Yuxiao Cheng is a PhD student (2022-) in Department of Automation, Tsinghua University. His research interests include causal discovery, machine learning, and AI for Science. He received his BSc degree in Department of Automation, Tsinghua University in 2022.
+Yuxiao Cheng is a PhD student (2022-) in Department of Automation, Tsinghua University. His research interests include causal discovery, machine learning, and AI for Science. He received his B.Eng. degree in Department of Automation, Tsinghua University in 2022.
 ```
 
