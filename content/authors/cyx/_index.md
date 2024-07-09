@@ -34,7 +34,7 @@ education:
     - course: PhD student in Department of Automation
       institution: Tsinghua University
       year: 2022-
-    - course: BSc in Department of Automation
+    - course: B.Eng. in Department of Automation
       institution: Tsinghua University
       year: 2018-2022
 
